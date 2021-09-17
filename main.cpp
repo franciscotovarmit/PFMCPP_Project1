@@ -58,7 +58,7 @@ ball.moves();
 //  action 2: the ball breaks a window
 ball.breaksWindow();
 //  action 3: the ball enters goal
- ball.entersGoal();
+ball.entersGoal();
 
 //  2) 
 //  Noun:  carpenter
@@ -67,7 +67,7 @@ carpenter.fixTable();
 //  action 2: the carpenter sets glue
 carpenter.setsGlue();
 //  action 3: the carpenter put nails
- carpenter.putNails();
+carpenter.putNails();
 
 //  3) 
 //  Noun: plugin
@@ -76,7 +76,7 @@ plugin.setKey();
 //  action 2: the plugin changes tempo
 plugin.setTempo();
 //  action 3: the plugin changes rhythm
- plugin.setRhythm();
+plugin.setRhythm();
 
 //  4)
 //  Noun:  TemperatureSensor
@@ -85,7 +85,7 @@ tempSensor.getsVoltage();
 //  action 2: the Temp sensors reads Temp
 tempSensor.readsTemperature();
 //  action 3: the temp sensors sends temp
- tempSensor.sendsTemp();
+tempSensor.sendsTemp();
 
 //  5)
 //  Noun:  Console
@@ -94,7 +94,7 @@ console.mixInstrument();
 //  action 2: console set Volum
 console.setVolume();
 //  action 3: console set effect
- console.setEffect();
+console.setEffect();
 
 //  6)     
 //  Noun:   Engineer
@@ -131,7 +131,7 @@ student.doesHomework();
 //  action 2: student submit homework
 student.submitHomework();
 //  action 3: student pay fees
- student.payFees();
+student.payFees();
 
 //  10)
 //  Noun:  teacher
@@ -140,7 +140,7 @@ teacher.shareKnowledge();
 //  action 2: teacher set deadlines
 teacher.setDeadLines();
 //  action 3:  teacher evaluate assignments
- teacher.evaluateAssignments();
+teacher.evaluateAssignments();
 
 
 #endif
