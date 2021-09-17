@@ -52,85 +52,95 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun: Ball
+//  action 1:  the ball moves
+ball.moves();
+//  action 2: the ball breaks a window
+ball.breaksWindow();
+//  action 3: the ball enters goal
+ball.entersGoal();
 
-//  action 2:
+//  2) 
+//  Noun:  carpenter
+//  action 1: the carpenter fix a table
+carpenter.fixTable();
+//  action 2: the carpenter sets glue
+carpenter.setsGlue();
+//  action 3: the carpenter put nails
+carpenter.putNails();
 
-//  action 3:
- 
-//  2)
-//  Noun:
-//  action 1:
+//  3) 
+//  Noun: plugin
+//  action 1:  the plugin changes key
+plugin.setKey();
+//  action 2: the plugin changes tempo
+plugin.setTempo();
+//  action 3: the plugin changes rhythm
+plugin.setRhythm();
 
-//  action 2:
-
-//  action 3:
- 
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:  TemperatureSensor
+//  action 1:  the Temp sensors gets a voltage
+tempSensor.getsVoltage();
+//  action 2: the Temp sensors reads Temp
+tempSensor.readsTemperature();
+//  action 3: the temp sensors sends temp
+tempSensor.sendsTemp();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:  Console
+//  action 1:  console mix instrument
+console.mixInstrument();
+//  action 2: console set Volum
+console.setVolume();
+//  action 3: console set effect
+console.setEffect();
 
-//  action 2:
+//  6)     
+//  Noun:   Engineer
+//  action 1:  engineer writes a program
+engineer.writesProgram();
+//  action 2:  engineer deletes a Program
+engineer.deletesProgram();
+//  action 3: engineer fix code
+engineer.fixCode();
 
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:   rhythm
+//  action 1:  rhythm set pattern
+rhythm.setPattern();
+//  action 2:  rhythm set tempo
+rhythm.setTempo():
+//  action 3: rhythm set mode
+rhythm.setMode();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  guitar
+//  action 1:  guitat plays riff
+guitar.playRiff();
+//  action 2:  guitar set armony
+guitar.armonize();
+//  action 3: guitar set rhythm
+guitar.setRhythm():
  
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:   student
+//  action 1:  student does howework
+student.doesHomework();
+//  action 2: student submit homework
+student.submitHomework();
+//  action 3: student pay fees
+student.payFees();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:  teacher
+//  action 1: teacher shares knowledge
+teacher.shareKnowledge();
+//  action 2: teacher set deadlines
+teacher.setDeadLines();
+//  action 3:  teacher evaluate assignments
+teacher.evaluateAssignments();
 
 
 #endif
